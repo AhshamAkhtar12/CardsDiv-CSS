@@ -1,0 +1,17 @@
+#container{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 800px;
+    background-color:yellow;
+}
+#container div{
+    height: 500px;
+    width: 335px;
+    background:white;
+    margin: 60px;
+    text-align: center;
+}
+h5{
+    text-decoration:underline
+}
